@@ -5,8 +5,9 @@ body {
   position: relative;
   scroll-behavior: smooth;
   color: black;
-  background: url(./../images/bg.jpg) repeat;
-  background-size: 600px auto;
+  background: url(./../images/bg.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
   background-color: #222;
 }
 
