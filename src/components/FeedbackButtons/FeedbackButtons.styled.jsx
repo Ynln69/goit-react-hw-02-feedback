@@ -17,7 +17,7 @@ export const BtnElement = styled.button`
   cursor: pointer;
 
   color: #f8f8ff;
-  fill: ##5f9ea0;
+  fill: currentColor;
   font-size: 20px;
   text-transform: capitalize;
 
